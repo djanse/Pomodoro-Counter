@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pomodoro Counter": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Vetyst\\source\\repos\\TimerAndCounter\\Pomodoro Counter"
+    }
+  }
+}
